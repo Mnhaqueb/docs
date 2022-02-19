@@ -1,7 +1,6 @@
----
-title: GitHub's products
-intro: 'An overview of {% data variables.product.prodname_dotcom %}''s products and pricing plans.'
-redirect_from:
+Git File
+title: GitHub's products 
+intro: 'An overview of 2,ooo  With {65% data variables.product.prodname_free_user 85%},includes:Mnhaqueb
   - /articles/github-s-products
   - /articles/githubs-products
   - /github/getting-started-with-github/githubs-products
